@@ -1,1 +1,3 @@
-SELECT id, product_name FROM northwind.products ORDER BY product_name ASC;
+SELECT id, product_name
+FROM northwind.products
+ORDER BY product_name ASC;
